@@ -11,15 +11,15 @@ import Testimonial from "./Testimonial";
 import Hero from "./Hero";
 
 export {
-  Billing,
-  Button,
-  Bussiness,
-  CardDeal,
-  CTA,
-  Footer,
-  Navbar,
-  State,
-  Testimonial,
-  Hero,
-  Clients,
+    Billing,
+    Button,
+    Bussiness,
+    CardDeal,
+    CTA,
+    Footer,
+    Navbar,
+    State,
+    Testimonial,
+    Hero,
+    Clients,
 };
